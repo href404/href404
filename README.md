@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil Github ! Vous pouvez trouver ici toutes sortes de projets personnels que j'ai créé pour explorer diverses technologies et idées !
 
-Concernant les langages de programmation, j'adore travailler avec TypeScript, C# et Kotlin.
+Concernant les langages de programmation que j'utilise, j'adore travailler avec TypeScript, C# et Kotlin.
 
 Rendez-vous sur [pierrejulien.fr](https://pierrejulien.fr) pour plus d'informations
 ---
